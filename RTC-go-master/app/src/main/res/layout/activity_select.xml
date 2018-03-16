@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    android:orientation="vertical"
+    tools:context="com.starks.gortc.SelectActivity">
+
+
+    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view2"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:layout_weight="1"
+        android:onClick="scientists"
+        android:padding="20dp"
+        card_view:cardCornerRadius="4dp">
+
+        <TextView
+            android:id="@+id/info_text2"
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:background="@android:color/holo_blue_light"
+            android:fontFamily="sans-serif"
+            android:gravity="center_vertical|center_horizontal"
+            android:paddingTop="20dp"
+            android:text="Login"
+            android:layout_margin="20dp"
+            android:paddingBottom="20dp"
+            android:textAlignment="center"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </android.support.v7.widget.CardView>
+
+
+
+</LinearLayout>

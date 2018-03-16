@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "856737088967",
+    "firebase_url": "https://rtc-go.firebaseio.com",
+    "project_id": "rtc-go",
+    "storage_bucket": "rtc-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856737088967:android:d11c5888a6794ee9",
+        "android_client_info": {
+          "package_name": "com.starks.gortc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856737088967-ivetsvg8t8i22u8n14htigg8fgpmjjtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starks.gortc",
+            "certificate_hash": "5106d24bee318b005318d9d5d6f5e2e5fac5060b"
+          }
+        },
+        {
+          "client_id": "856737088967-mfr97l03dka91d5eks8jsm83hn31o93d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starks.gortc",
+            "certificate_hash": "d8d3d070e0e2431c3e6f705dd5a5bc59209f2c5c"
+          }
+        },
+        {
+          "client_id": "856737088967-i2kudnqgtdb86s7nr7hulo8vvpdo0js8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQA3m9ROV1CN8V97qAHYrwJRRFRZpRJyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856737088967-i2kudnqgtdb86s7nr7hulo8vvpdo0js8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
